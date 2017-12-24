@@ -18,6 +18,9 @@
 ng-zerro
 ngx-bootstrap
 
+####  报错篇
+升级或启动过程中报的错遇到的坑
+
 #### 网络资源
 
 #### Angular教程
