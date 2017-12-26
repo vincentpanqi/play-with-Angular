@@ -23,6 +23,11 @@ ngx-bootstrap
 
 #### 网络资源
 
+
+#### 书籍
+[Angular2培训](https://zhangchen915.gitbooks.io/angular2-training/content/content/vs_react.html)：里面介绍了使用方法，相关概念等。
+
+
 #### 官方更新记录
 官方每个版本更新做了哪些事情？
 
