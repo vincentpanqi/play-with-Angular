@@ -88,7 +88,7 @@
 |           ---------          |                   ---------                                                   |
 |   RxJS 中文文档（小部分未翻译完全）          |        [RxJS 中文文档](http://cn.rx.js.org/)                             |
 |   RxJS 中文学习资料汇总           |        [RxJS 中文社区](https://github.com/RxJS-CN)                             |
-| [手把手教你用ngrx管理Angular状态(中文，有点长)](https://github.com/fezaoduke/TranslationInstitute/blob/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8ngrx%E7%AE%A1%E7%90%86Angular%E7%8A%B6%E6%80%81.md) |  [英文版](https://auth0.com/blog/managing-state-in-angular-with-ngrx-store/)  |
+|  手把手教你用ngrx管理Angular状态 | [中文，有点长](https://github.com/fezaoduke/TranslationInstitute/blob/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8ngrx%E7%AE%A1%E7%90%86Angular%E7%8A%B6%E6%80%81.md)、[英文版](https://auth0.com/blog/managing-state-in-angular-with-ngrx-store/)  |
 
 
 
