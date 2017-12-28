@@ -1,4 +1,4 @@
-# Angular学习乐园
+# Angular(2+)学习资源汇总
 
 ## 官网
 | Article | Article |
@@ -8,7 +8,7 @@
 ## 开发环境配置
 | Article | Article |
 | --------- | --------- |
-|[用WebStorm进行Angularjs 2开发（环境篇：Windows 10，Angular-cli方式）](http://blog.csdn.net/pointer_v/article/details/55096197)|[中文官网](https://www.angular.cn/)|
+|[用WebStorm进行Angular开发](http://blog.csdn.net/pointer_v/article/details/55096197)|[中文官网](https://www.angular.cn/)|
 
 
 #### 个人总结
