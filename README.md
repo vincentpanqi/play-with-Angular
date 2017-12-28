@@ -1,5 +1,10 @@
 # Angular学习乐园
 
+## Javascript
+| Article | Article |
+| --------- | --------- |
+|[英文官网](https://angular.io/)|[中文官网](https://www.angular.cn/)|
+
 #### 个人总结
 1.文件配置   
 
