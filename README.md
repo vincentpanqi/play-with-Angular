@@ -1,9 +1,15 @@
 # Angular学习乐园
 
-## Javascript
+## 官网
 | Article | Article |
 | --------- | --------- |
 |[英文官网](https://angular.io/)|[中文官网](https://www.angular.cn/)|
+
+## 开发环境配置
+| Article | Article |
+| --------- | --------- |
+|[用WebStorm进行Angularjs 2开发（环境篇：Windows 10，Angular-cli方式）](http://blog.csdn.net/pointer_v/article/details/55096197)|[中文官网](https://www.angular.cn/)|
+
 
 #### 个人总结
 1.文件配置   
