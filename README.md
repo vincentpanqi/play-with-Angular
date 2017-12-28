@@ -80,7 +80,7 @@
 ## 提问交流社区
 |                   地址                                                                   |                  地址                                                      |
 |           ---------                                                                     |                   ---------                                                   |
-|   [angular2 随便问(Ask me anything!)](https://github.com/kittencup/angular2-ama-cn)      |        [英文的提问社区，很强大](https://stackoverflow.com/)               |
+|   [angular2 随便问(Ask me anything!)](https://github.com/kittencup/angular2-ama-cn)      |        [stackoverflow：英文的提问社区，很强大](https://stackoverflow.com/)               |
 
 
 ## RxJS
