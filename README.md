@@ -26,10 +26,11 @@
 2. 模块懒加载，模块预加载，开始的loading动画
 3. css 封装，去除url中的#，路由守卫，目结结构（怎样才能找起来方便不乱）
 
-#### 插件篇
-| Article | Article |
+## 插件篇
+| 用途 | 插件地址 |
 | --------- | --------- |
-|[阿里开源的ng-zerro](http://blog.csdn.net/pointer_v/article/details/55096197)|[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)|
+|阿里开源的ui库 |[ng-zerro](http://blog.csdn.net/pointer_v/article/details/55096197)|
+|专门为ng2的设计的bootsrap|[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)|
 |[ng2-dragula](https://github.com/valor-software/ng2-dragula)|[图表插件：ng2-charts](https://github.com/valor-software/ng2-charts)|
 |[上传插件：ng2-file-upload](https://github.com/valor-software/ng2-file-upload)|[ng2-select](https://github.com/valor-software/ng2-select)|
 
