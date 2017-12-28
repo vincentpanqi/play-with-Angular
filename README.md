@@ -37,6 +37,7 @@
 |   专门为ng2的设计的bootsrap库   |        [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)       |
 |   FreeNG                       |        [FreeNG](https://github.com/valor-software/ngx-bootstrap)       |
 |   英文的Angular组件库             |        [Angular Material](https://material.angular.io/components/categories) | 
+|   英文的组件库                 |        [PrimeNG](https://www.primefaces.org/primeng/#/) | 
 |   字体图标  | [Font Awesome （英）](http://fontawesome.io/icons/) 、[Font Awesome （中）](http://www.fontawesome.com.cn/) 、 [阿里的inconfont](http://iconfont.cn/)  | 
 
 ## 插件篇
