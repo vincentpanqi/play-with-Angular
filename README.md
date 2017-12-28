@@ -29,12 +29,9 @@
 #### 插件篇
 | Article | Article |
 | --------- | --------- |
-|[阿里开源的ng-zerro](http://blog.csdn.net/pointer_v/article/details/55096197)
-|[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)|
-|[ng2-dragula](https://github.com/valor-software/ng2-dragula)
-|[图表插件：ng2-charts](https://github.com/valor-software/ng2-charts)|
-|[上传插件：ng2-file-upload](https://github.com/valor-software/ng2-file-upload)
-|[ng2-select](https://github.com/valor-software/ng2-select)|
+|[阿里开源的ng-zerro](http://blog.csdn.net/pointer_v/article/details/55096197)|[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)|
+|[ng2-dragula](https://github.com/valor-software/ng2-dragula)|[图表插件：ng2-charts](https://github.com/valor-software/ng2-charts)|
+|[上传插件：ng2-file-upload](https://github.com/valor-software/ng2-file-upload)|[ng2-select](https://github.com/valor-software/ng2-select)|
 
 
 
