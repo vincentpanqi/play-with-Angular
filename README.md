@@ -3,9 +3,9 @@
 ## 官网
 | 标题 | 标题 |
 | --------- | --------- |
-|   [英文官网](https://angular.io/)         |[中文官网](https://www.angular.cn/)|
-|[Angular cli地址](https://github.com/angular/angular-cli)| [脚手架用法wiki](https://github.com/angular/angular-cli/wiki) |
-|   [ngrx](https://github.com/ngrx/platform)         |  [rxjs](https://github.com/ReactiveX/rxjs)|
+|   [英文官网](https://angular.io/)   / [官网源码](https://github.com/angular/angular)       | [中文官网](https://www.angular.cn/) / [官网源码](https://github.com/angular/angular-cn) |
+|   [Angular cli地址](https://github.com/angular/angular-cli)| [脚手架用法wiki](https://github.com/angular/angular-cli/wiki) |
+
 
 
 ## 开发环境配置
@@ -101,6 +101,10 @@
 
 #### 个人博客中好的Agular教程
 
+#### angular 如何解决seo问题
+| 地址 | 地址 |
+| --- | --- |
+|  [Angular Universal](https://github.com/angular/universal) | |
 
 ## RxJS
 |                   项目简介       |                  项目地址                                                  |
@@ -108,6 +112,9 @@
 |   RxJS 中文文档（小部分未翻译完全）          |        [RxJS 中文文档](http://cn.rx.js.org/)                             |
 |   RxJS 中文学习资料汇总           |        [RxJS 中文社区](https://github.com/RxJS-CN)                             |
 |  手把手教你用ngrx管理Angular状态 | [中文，有点长](https://github.com/fezaoduke/TranslationInstitute/blob/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8ngrx%E7%AE%A1%E7%90%86Angular%E7%8A%B6%E6%80%81.md)、[英文版](https://auth0.com/blog/managing-state-in-angular-with-ngrx-store/)  |
+| ngrx 管理angular里面的数据 类似于redux          | [ngrx](https://github.com/ngrx/platform) |
+|    rxjs github地址                                      |  [rxjs](https://github.com/ReactiveX/rxjs) | 
+
 
 #### typescript
 | 说明 | 地址 |
