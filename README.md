@@ -15,7 +15,13 @@
 
 
 
+
 ## 文件配置
+| 标题 | 标题 |
+| --------- | --------- |
+| Angular动画是基于标准的Web动画API[Web Animations API](https://drafts.csswg.org/web-animations/)构建的|    |
+
+
   
 
 ## 方法介绍  
